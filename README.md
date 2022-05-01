@@ -1,15 +1,13 @@
-# Animal Computer Vision Clean Dataset and Code (CNN - AI)
+# Human Action Detection with Artificial Intelligence - Emirhan BULUT
 
 ---
-I am sharing a clean dataset about animals with you. In addition, I am sharing an artificial intelligence classification software with 97% accuracy. The data was trained on approximately 9 ready-made models and a total of 10 models were trained, including the model I created. The MSE value is 0.07, the accuracy value is 97% and the precision value is 98%.
+I made an artificial intelligence CNN software that detects and classifies human movements. I trained 9 ready-made models and added 1 36-layer CNN artificial intelligence algorithm (model) that I created myself to the software. In order for the code to be instructive and understandable, I interpreted the code blocks with the help of notebook-like titles. I shared the dataset and software with humanity for free on Kaggle and GitHub.
 
-Classes = Zebra, Rhino, Elephant and Buffalo
-
-Kind regards,
+Enjoyable software...
 
 Emirhan BULUT
 
-Senior Artificial Intelligence Engineer - AI Inventor
+AI Inventor - Senior Artificial Intelligence Engineer
 
 
 ###**The coding language used:**
@@ -32,9 +30,7 @@ Senior Artificial Intelligence Engineer - AI Inventor
 
 `Seaborn`
 
-<img class="fit-picture"
-     src="https://github.com/emirhanai/Animal-Computer-Vision-Clean-Dataset-and-Code-Artificial-Intelligence/blob/main/Animal%20Computer%20Vision%20Clean%20Dataset%20and%20Code%20(CNN%20-%20AI).png?raw=true"
-     alt="Animal Computer Vision Clean Dataset and Code (CNN - AI)">
+<img src="https://github.com/emirhanai/Human-Action-Detection-with-Artificial-Intelligence/blob/main/Human%20Action%20Detection%20with%20Artificial%20Intelligence.png?raw=true" alt="Human Action Detection with Artificial Intelligence - Emirhan BULUT">
      
 ### **Developer Information:**
 
